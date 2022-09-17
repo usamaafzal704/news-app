@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.10cbecb7.css","mappings":"AAAA,KACE,wBAAyB,CACzB,2GAAyH,CACzH,qBACA","sources":["App.css"],"sourcesContent":["body{\n  background-color: #cec7c7;\n  background: url('https://th.bing.com/th/id/OIP.QIzQIOOkynKC5AUtwy-HQgAAAA?pid=ImgDet&rs=1')center center no-repeat fixed ;\n  background-size: cover;\n  }"],"names":[],"sourceRoot":""}
